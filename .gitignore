@@ -1,0 +1,9 @@
+# Created by https://www.gitignore.io/api/appengine
+
+### AppEngine ###
+# Google App Engine - https://developers.google.com/appengine/
+appengine-generated/
+
+
+# End of https://www.gitignore.io/api/appengine
+
